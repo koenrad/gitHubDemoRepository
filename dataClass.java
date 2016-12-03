@@ -1,3 +1,3 @@
 String function1() {
-	return "lol"
+	print somethhing
 }
